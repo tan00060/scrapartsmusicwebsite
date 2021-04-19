@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 574.74 782.3">
+  <defs>
+    <linearGradient id="linear-gradient" x1="166.72" y1="175.46" x2="401.11" y2="457.74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.3" stop-color="#fff"/>
+      <stop offset="0.35" stop-color="#fff"/>
+      <stop offset="0.39" stop-color="#fcfcfc"/>
+      <stop offset="0.42" stop-color="#f1f1f2"/>
+      <stop offset="0.46" stop-color="#dfe0e1"/>
+      <stop offset="0.49" stop-color="#c6c7c9"/>
+      <stop offset="0.52" stop-color="#a5a7aa"/>
+      <stop offset="0.53" stop-color="#9d9fa2"/>
+      <stop offset="0.59" stop-color="#7f8083"/>
+      <stop offset="0.67" stop-color="#59595b"/>
+      <stop offset="0.74" stop-color="#424143"/>
+      <stop offset="0.78" stop-color="#39383a"/>
+      <stop offset="0.87" stop-color="#313031"/>
+      <stop offset="1" stop-color="#201d1e"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Black_White" data-name="Black&amp;White">
+      <rect x="1.5" y="1.5" width="571.74" height="779.3" fill="#201d1e"/>
+      <text transform="translate(151.54 715.48)" font-size="74.85" fill="#fff" font-family="AndaleMono, Andale Mono" letter-spacing="0.31em">KODE</text>
+      <polygon id="Border" points="573.24 780.8 1.5 780.8 1.5 606.87 1.5 1.5 573.24 1.5 573.24 780.8" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="inner_border" data-name="inner border" x1="573.24" y1="599.43" x2="1.5" y2="599.43" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <path d="M394.26,405.3l-94.95-95.69,91.82-91.81c16.81-19.23,14.57-47.66-2.42-62.37-14.23-12.33-36.79-13.26-53.86-1.16L244.16,245V125.15a9.06,9.06,0,0,0-16.77,0l-.29,137.5-16.72,16.71V161.24a9.07,9.07,0,0,0-17.15.65l.23,135.18-16.9-16.9-.06-93a8.77,8.77,0,0,0-16.86.1l.09,99.89,21.44,22L167.1,323l-7.92,5.76v116A43.17,43.17,0,0,0,201,481.57c2.57.06,20.89.15,33.57-14.81a43.1,43.1,0,0,0,9.94-26.13V375.17l86.77,87.34c16.66,15.56,42.73,15.38,58.87,0C405.72,447.65,407.68,422.76,394.26,405.3ZM176.4,337.69,343,169.44c5-6.19,21.65-9.64,28.47-3.83L176.4,362.14Zm16.73,125.22c-7.77-3.21-13.46-8-16.31-18.29V434.2l16.5-16.63C193.26,432.69,193.13,462.91,193.13,462.91Zm33.8-19a24.3,24.3,0,0,1-16.59,19l-.15-62.63,16.74-16.46ZM176.4,410.55V386L383.59,176.78c8.38,18.1-5,29.85-5,29.85ZM345,452.42l-93-94.29,12-12,90.65,91.5q8.39,8.65,16.75,17.32C357,462.08,345,452.42,345,452.42Zm38.36-9.63-14.54-14.57-93-94.29,12-12,90.65,91.5C391.21,426,383.39,442.79,383.39,442.79Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
